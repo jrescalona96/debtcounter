@@ -15,7 +15,17 @@ This web app helps users keep track of their overall Debt by displaying the amou
 
 ## Technology
 
-The this app is built using React.js utilizing the browsers localStorage for data persistence.
+- Built using React.js utilizing the browsers localStorage for data persistence.
+- Uses SASS for precompiling CSS
+- Pulls data from https://exchangeratesapi.io
+  - Display rates from  
+  - Data will then be converted to the selected currency
+- Github Pages
+
+## Things I learned
+- Initially this project was deployed in Heroku, however the free provided service sleeps when not in used. Loading this application after causes a delay for the user. Found that Github Pages does not have this limitation.
+- How to use Exchagerates API
+- How to use browser localstorage
 
 Check it out here:
 https://jrescalona96.github.io/debtcounter/
