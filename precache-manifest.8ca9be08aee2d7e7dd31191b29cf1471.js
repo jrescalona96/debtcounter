@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "2a0e6033b5bcd868b473cdfabe230970",
+    "revision": "888d08641167a509eef36f225b98f8bd",
     "url": "/debtcounter/index.html"
   },
   {
-    "revision": "91305fd222960aa28f0c",
+    "revision": "753b99e5391c9cee8c66",
     "url": "/debtcounter/static/css/2.419068d4.chunk.css"
   },
   {
-    "revision": "8b3365acb402302d88ee",
+    "revision": "5122cd0a546159492bd0",
     "url": "/debtcounter/static/css/main.c39ab624.chunk.css"
   },
   {
-    "revision": "91305fd222960aa28f0c",
-    "url": "/debtcounter/static/js/2.5ccb5683.chunk.js"
+    "revision": "753b99e5391c9cee8c66",
+    "url": "/debtcounter/static/js/2.4ee29b6e.chunk.js"
   },
   {
     "revision": "90565ba0b43e1b95d2876295dfd7014d",
-    "url": "/debtcounter/static/js/2.5ccb5683.chunk.js.LICENSE.txt"
+    "url": "/debtcounter/static/js/2.4ee29b6e.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "8b3365acb402302d88ee",
-    "url": "/debtcounter/static/js/main.ae4313bf.chunk.js"
+    "revision": "5122cd0a546159492bd0",
+    "url": "/debtcounter/static/js/main.93f44955.chunk.js"
   },
   {
     "revision": "de072e119b1467981a1f",

@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/debtcounter/precache-manifest.7f77844ce575ea3ab4ab304fe872a0a6.js"
+  "/debtcounter/precache-manifest.8ca9be08aee2d7e7dd31191b29cf1471.js"
 );
 
 self.addEventListener('message', (event) => {
