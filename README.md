@@ -18,5 +18,3 @@ The this app is built using React.js utilizing the browsers localStorage for dat
 
 Check it out here:
 https://jrescalona96.github.io/debtcounter/
-
-> The app may take a while to load up as heroku will put the app to sleep after some time. Try refreshing the page when you've been redirected.
