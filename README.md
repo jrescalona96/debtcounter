@@ -11,6 +11,7 @@ This web app helps users keep track of their overall Debt by displaying the amou
 - edit debts
 - delete debts
 - view all conversions of total debt in other countries
+- dark mode
 
 ## Technology
 
